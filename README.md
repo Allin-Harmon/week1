@@ -18,7 +18,7 @@ Week 1 GitHub assignment -->
   * Elder Scrolls Online
   * Conan Exiles
 
-![My gaming setup.](https://i.ibb.co/YcXN8bj/gaming-setup.jpg "My Gaming Setup.")
+![My gaming setup.](https://i.ibb.co/dbkmzXY/gaming-setup.jpg "My Gaming Setup.")
 
 ### Using Adobe Photoshop
 
@@ -27,7 +27,7 @@ Week 1 GitHub assignment -->
   * Photo restorations
   * Photo recoloring
 
-![Photo manipulation from an Advertising class.](https://i.ibb.co/Sry1QzV/car-wrap-photoshop.jpg "A Photo Manipulation")
+![Photo manipulation from an Advertising class.](https://i.ibb.co/X2GCNDP/car-wrap-photoshop.jpg "A Photo Manipulation")
 
 ### Building Computers
 
@@ -37,4 +37,4 @@ Week 1 GitHub assignment -->
   * My Mother
   * My Niece
   
-![Inside my computer.](https://i.ibb.co/WVnHPpJ/computer-guts.jpg "Computer guts")
+![Inside my computer.](https://i.ibb.co/0CBF92r/computer-guts.jpg "Computer guts")

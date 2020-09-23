@@ -13,28 +13,28 @@ Week 1 GitHub assignment -->
 
 ### Playing Video Games
 
-![My gaming setup.](https://i.ibb.co/YcXN8bj/gaming-setup.jpg "My Gaming Setup.")
-
 * __Recent Games__ _I've played_:
   * Assassin's Creed Odyssey
   * Elder Scrolls Online
   * Conan Exiles
 
+![My gaming setup.](https://i.ibb.co/YcXN8bj/gaming-setup.jpg "My Gaming Setup.")
+
 ### Using Adobe Photoshop
 
-![Photo manipulation from an Advertising class.](https://i.ibb.co/Sry1QzV/car-wrap-photoshop.jpg "A Photo Manipulation")
-
 * I _especially_ like to do:
-  * Photo manipulations (pictured above)
+  * Photo manipulations (pictured below)
   * Photo restorations
   * Photo recoloring
 
+![Photo manipulation from an Advertising class.](https://i.ibb.co/Sry1QzV/car-wrap-photoshop.jpg "A Photo Manipulation")
+
 ### Building Computers
 
-![Inside my computer.](https://i.ibb.co/WVnHPpJ/computer-guts.jpg "Computer guts")
-
 * I have built computers for:
-  * Me (pictured above)
+  * Me (pictured below)
   * My Wife
   * My Mother
   * My Niece
+  
+![Inside my computer.](https://i.ibb.co/WVnHPpJ/computer-guts.jpg "Computer guts")

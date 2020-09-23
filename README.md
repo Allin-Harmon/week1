@@ -30,7 +30,7 @@ Week 1 GitHub assignment -->
 
 ### Building Computers
 
-![Inside my computer.](/image/computer_guts.jpg "Computer guts")
+![Inside my computer.](https://drive.google.com/file/d/1t50w3yx8ybi7IENYx8FNeAZi1KxwbObo/view?usp=sharing "Computer guts")
 
 * I have built computers for:
   * Me (pictured above)

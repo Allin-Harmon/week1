@@ -10,9 +10,10 @@ Week 1 GitHub assignment -->
 # My name is Allin Harmon
 
 ## Things I like:
+
 ### Playing Video Games
 
-![My gaming setup.](https://i.ibb.co/YcXN8bj/gaming-setup.jpg "My Gaming Setup.") {:height="100px" width="140px"}
+![My gaming setup.](https://i.ibb.co/YcXN8bj/gaming-setup.jpg "My Gaming Setup.")
 
 * __Recent Games__ _I've played_:
   * Assassin's Creed Odyssey

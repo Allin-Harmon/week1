@@ -12,7 +12,7 @@ Week 1 GitHub assignment -->
 ## Things I like:
 ### Playing Video Games
 
-![My gaming setup.](https://ibb.co/PcMr4tC "My Gaming Setup.")
+![My gaming setup.](https://i.ibb.co/YcXN8bj/gaming-setup.jpg "My Gaming Setup.")
 
 * __Recent Games__ _I've played_:    
   * Assassin's Creed Odyssey

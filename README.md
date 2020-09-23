@@ -21,7 +21,7 @@ Week 1 GitHub assignment -->
 
 ### Using Adobe Photoshop
 
-![Photo manipulation from an Advertising class.](https://i.ibb.co/Sry1QzV/car-wrap-photoshop.jpg "A Photo Manipulation")
+![Photo manipulation from an Advertising class.](https://i.ibb.co/WVnHPpJ/computer-guts.jpg "A Photo Manipulation")
 
 * I _especially_ like to do:
   * Photo manipulations (pictured above)
@@ -30,7 +30,7 @@ Week 1 GitHub assignment -->
 
 ### Building Computers
 
-![Inside my computer.](https://i.ibb.co/kBKPjY3/computer-guts.jpg "Computer guts")
+![Inside my computer.](https://i.ibb.co/93Z1QW2/gaming-setup.jpg "Computer guts")
 
 * I have built computers for:
   * Me (pictured above)

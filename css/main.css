@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background:url(../images/carbon_fibre.png) repeat rgb(116, 114, 114);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrapper {
+    width: 95%;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+article {
+    width: 90%;
+    background:rgba(238, 238, 241, 0.84);
+    color: darkblue;
+    margin: 0 100px 50px 100px;
+    border: 2px solid darkblue;
+    border-radius: 10px 30px 10px 30px;
+    box-shadow: 5px 7px 6px 1px rgba(21, 25, 36, 0.54);
+    padding: 20px 2%;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+p {
+    padding: 10px 15px;
+    font-weight: 400;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+}
+
+.img_format {
+    width: 90%;
+    margin: 10px 5%;
+    border: 1px solid darkblue;
+    border-radius: 5px 25px 5px 25px;
+    box-shadow: 5px 7px 6px 1px rgba(8,39,119,.54);
+}
